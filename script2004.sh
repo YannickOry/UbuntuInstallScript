@@ -24,7 +24,7 @@ sudo snap install vlc > /dev/null
 echo "Done 2/4"
 sudo snap install spotify > /dev/null
 echo "Done 3/4"
-sudo snap install code > /dev/null
+sudo snap install code --classic > /dev/null
 echo "Done 4/4"
 
 echo "installation complete"
