@@ -8,6 +8,9 @@ sudo apt update > /dev/null
 echo "Updating system"
 sudo apt upgrade -y > /dev/null
 
+echo "Installing PreRequirements"
+
+sudo apt install curl -y 
 echo "Starting Installation PIHOLE"
 
 curl -sSL https://install.pi-hole.net | bash
