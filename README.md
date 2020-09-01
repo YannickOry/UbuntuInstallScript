@@ -30,7 +30,7 @@ Works on :
 
 ## 2. Installationscript PIHOLE:
 ### Description
-This script will update the system and install's PIHOLE
+This script will update the system and install PIHOLE
 
 ### Install
 
@@ -44,12 +44,17 @@ Follow the steps in during the installation
 ** THE PASSWORD OF THE GUI WILL BE SHOWED AFTER INSTALLATION ** 
 - Username : Admin
 - URL : http://ipaddress/admin or http://pi.hole/admin 
+
+More information : https://docs.pi-hole.net/ 
 ### Requirements 
 Works on : 
 * Ubuntu 16.04
 * Ubuntu 18.04
 * Ubuntu 20.04
 
+Software : 
+
+* CURL ==> Will be installed automaticly if you start the script. 
 ### Filename
 [PIHOLE.sh](Scripts/PIHOLE.sh)
 
