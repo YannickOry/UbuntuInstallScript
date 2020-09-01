@@ -1,5 +1,9 @@
+Release 1.0
+
 # Ubuntu Install scripts
 -----
+If you want to use this scripts, you can clone this repository 
+Please pull the repository before using it. A new version can be pushed anytime
 
 ##  1. After installation script : 
 ### Description

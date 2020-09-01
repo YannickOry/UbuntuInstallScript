@@ -4,7 +4,7 @@ echo "Installation Script for Ubuntu 20.04 "
 
 
 echo "This script require SUDO permissions"
-sudo apt update > /dev/null
+sudo apt-get update > /dev/null
 echo "Creating new temp folder for DEB FILES"
 
 mkdir /tmp/scriptfiles > /dev/null
