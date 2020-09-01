@@ -39,6 +39,11 @@ File is already CHMOD +x changed from GIT
 
 #### Specific Install guide
 Follow the steps in during the installation
+
+** GUI : **
+** THE PASSWORD OF THE GUI WILL BE SHOWED AFTER INSTALLATION ** 
+- Username : Admin
+- URL : http://ipaddress/admin or http://pi.hole/admin 
 ### Requirements 
 Works on : 
 * Ubuntu 16.04
