@@ -39,7 +39,7 @@ File is already CHMOD +x changed from GIT
 
 #### Specific Install guide
 Follow the steps in during the installation
-
+* Log : /etc/pihole 
 ** GUI : **
 ** THE PASSWORD OF THE GUI WILL BE SHOWED AFTER INSTALLATION ** 
 - Username : Admin
