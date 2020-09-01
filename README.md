@@ -19,13 +19,13 @@ The applications that will be installed are:
 
 ### Install
 
-Clone the git, go to the folder SCRIPTS and enter `./AIS400.sh `
+Clone the git, go to the folder SCRIPTS and enter `./AIS2004.sh `
 File is already CHMOD +x changed from GIT 
 
 ### Requirements 
 Works on : 
-* ~~ Ubuntu 16.04 ~~
-* ~~ Ubuntu 18.04 ~~
+* ~~Ubuntu 16.04~~
+* ~~Ubuntu 18.04~~
 * Ubuntu 20.04
 
 ### Filename
