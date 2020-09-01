@@ -15,7 +15,7 @@ The applications that will be installed are:
 
 ### Install
 
-Clone the git, go to the folder SCRIPTS and enter `./AIS400.sh `
+Clone the git, go to the folder SCRIPTS and enter `./AIS2004.sh `
 File is already CHMOD +x changed from GIT 
 
 ### Requirements 
