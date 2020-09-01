@@ -13,6 +13,12 @@ The applications that will be installed are:
 * VSCODE
 * Spotify
 
+### Requirements 
+Works on : 
+* ~~ Ubuntu 16.04 ~~
+* ~~ Ubuntu 18.04 ~~
+* Ubuntu 20.04
+
 ### Filename
 [AIS2004.SH](Scripts/AIS2004.sh)
 
@@ -21,4 +27,12 @@ The applications that will be installed are:
 ### Description
 This script will update the system and install's PIHOLE
 
+### Requirements 
+Works on : 
+* Ubuntu 16.04
+* Ubuntu 18.04
+* Ubuntu 20.04
+
+### Filename
+[PIHOLE.sh](Scripts/PIHOLE.sh)
 
