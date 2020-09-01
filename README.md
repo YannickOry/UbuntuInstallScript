@@ -13,6 +13,11 @@ The applications that will be installed are:
 * VSCODE
 * Spotify
 
+### Install
+
+Clone the git, go to the folder SCRIPTS and enter `./AIS400.sh `
+File is already CHMOD +x changed from GIT 
+
 ### Requirements 
 Works on : 
 * ~~ Ubuntu 16.04 ~~
@@ -27,6 +32,13 @@ Works on :
 ### Description
 This script will update the system and install's PIHOLE
 
+### Install
+
+Clone the git, go to the folder SCRIPTS and enter ` ./PIHOLE.sh `
+File is already CHMOD +x changed from GIT 
+
+#### Specific Install guide
+Follow the steps in during the installation
 ### Requirements 
 Works on : 
 * Ubuntu 16.04

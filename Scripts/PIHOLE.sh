@@ -10,7 +10,7 @@ sudo apt upgrade -y > /dev/null
 
 echo "Installing PreRequirements"
 
-sudo apt install curl -y 
+sudo apt install curl -y > /dev/null
 echo "Starting Installation PIHOLE"
 
 curl -sSL https://install.pi-hole.net | bash
